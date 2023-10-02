@@ -23,11 +23,11 @@ The dataset used in this project contains information about red variants of the 
 
 ## Libraries Used
 
-python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import seaborn as sns
+
+-import numpy as np
+-import pandas as pd
+-from matplotlib import pyplot as plt
+-import seaborn as sns
 
 # Importing the dataset
 df = pd.read_csv("winequality-red.csv")
