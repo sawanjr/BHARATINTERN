@@ -25,8 +25,11 @@ The dataset used in this project contains information about red variants of the 
 
 
 -import numpy as np
+
 -import pandas as pd
+
 -from matplotlib import pyplot as plt
+
 -import seaborn as sns
 
 # Importing the dataset
